@@ -40,4 +40,4 @@ Since elements are stored in contiguous memory, accessing an element by its inde
 
 * When you are working with numerical data or need to implement other data structures (e.g., stacks, queues, matrices).
 
-![Alt text](images/example.png)
+![Alt text](Arrays.jpeg)
